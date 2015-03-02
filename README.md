@@ -8,4 +8,4 @@ add description here
 | Driver  | [Jane Park](https://github.com/janeatcc)  |
 | Approvers  | ADD  |
 | Contributors | Add yourselves here |
-| Informed | Add yourselves here |
+| Informed | [Cable Green](https://github.com/cablegreen) |
