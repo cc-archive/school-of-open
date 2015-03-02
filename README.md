@@ -6,6 +6,6 @@ We will work on a transition plan to make School of Open community-sustained and
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Jane Park](https://github.com/janeatcc)  |
-| Approvers  | ADD  |
+| Approvers  | [Ryan](https://github.com/ryanmerkley)  |
 | Contributors | Add yourselves here |
 | Informed | [Cable Green](https://github.com/cablegreen) |
