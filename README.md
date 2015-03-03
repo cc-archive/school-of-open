@@ -6,6 +6,6 @@ We will work on a transition plan to make [School of Open](http://schoolofopen.o
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Jane Park](https://github.com/janeatcc)  |
-| Approvers  | [Ryan](https://github.com/ryanmerkley)  |
-| Contributors | Add yourselves here |
+| Accountable  | [Ryan](https://github.com/ryanmerkley)  |
+| Consulted | Add yourselves here |
 | Informed | [Cable Green](https://github.com/cablegreen) |
